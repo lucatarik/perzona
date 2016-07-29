@@ -2,7 +2,7 @@
 public class Kane{
 
 	public Kane() {
-
+		// I KANI SN MEGLIO DELLE PERZONE
 	}
 
 	public boolean eMeglioDi(Object object){
