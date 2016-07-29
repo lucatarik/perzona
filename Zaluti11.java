@@ -25,4 +25,22 @@ public class Zaluti11{
 		}
 
 	}
+        
+        public String zaluta(ErFaina erfaina)
+        {   
+            String salutoDerFaina = "AH REGA BONGIORNO!";
+            erfaina.lanciaAccendino();
+            return salutoDerFaina;
+        }
+        
+        public String zaluta(Kane kane)
+        {   
+            return "bau bau?"; 
+        } 
+        
+        public String zaluta(Renzie)
+        {   
+            return "SHISH!"; 
+        }         
+        
 }
