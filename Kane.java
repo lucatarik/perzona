@@ -1,8 +1,14 @@
 
-public class Kane {
+public class Kane{
 
 	public Kane() {
-		// TODO Auto-generated constructor stub
+
 	}
 
+	public boolean eMeglioDi(Object object){
+		if(object instanceof Perzona)
+			return true;
+		// I KANI SN KOMUNQUE MEJO
+		return true;
+	}
 }
